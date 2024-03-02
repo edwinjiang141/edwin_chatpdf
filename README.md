@@ -3,7 +3,7 @@
 #### 2、采用 LangChain+OpenAI API+FASIS向量数据库，构建基于本地的知识库
 #### 3、在模型加载时，采用BitsAndBytes技术，加载后的微调模型占用4.5GB左右的GPU显存
 ![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/8363a68b-3cdc-459a-950d-ce7f9a045837)
-#### 4、演示地址：https://47.100.203.133:7860/
+#### 4、演示地址：https://47.100.203.133:7860/    python audio_QA.py
 #### 5、演示例子：
 #### 1）、问题：请给出表空间扩容的详细步骤包括前面的检查以及各种类型表空间扩容的命令
 ![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/af9c8202-53b7-4143-96c5-18c47eebff03)
