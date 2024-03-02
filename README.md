@@ -20,7 +20,8 @@
 
 #### 3、数据库用户的密码周期如何改为无限制的？
 #### 语音检索内容：
-![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/99ba5982-3b53-4372-b3bf-b9f43b86daed)
+![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/c7000234-95fd-4e04-a6f2-43d583f78d30)
+
 
 
 
