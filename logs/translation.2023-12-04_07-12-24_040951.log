@@ -1,0 +1,6 @@
+2023-12-04 07:12:23.942 | ERROR    | doc_analyze.doc_analyze:run:16 - An error occurred during translation: Connection error.
+2023-12-04 07:17:55.000 | ERROR    | doc_analyze.doc_analyze:run:16 - An error occurred during translation: Connection error.
+2023-12-04 07:37:12.374 | ERROR    | doc_analyze.doc_analyze:run:16 - An error occurred during translation: Connection error.
+2023-12-04 07:40:15.531 | ERROR    | doc_analyze.doc_analyze:run:16 - An error occurred during translation: Connection error.
+2023-12-04 07:41:54.043 | ERROR    | doc_analyze.doc_analyze:run:16 - An error occurred during translation: Connection error.
+2023-12-04 12:54:48.298 | ERROR    | doc_analyze.doc_analyze:run:16 - An error occurred during translation: Connection error.
