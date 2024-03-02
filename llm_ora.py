@@ -13,8 +13,6 @@ import os
 # OpenAI.api_key = os.environ["OPENAI_API_KEY"]
 # OpenAI.api_base = "https://pro.aiskt.com/v1"
 
-# openai.api_key = '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'
-
 # It is suitable for inquiring the information of employees of the company, such as personal information of employees, job title, country and region, etc。
 # please use SQL query extracting info to answer the user's question.
 # SQL should be written using this database schema:
