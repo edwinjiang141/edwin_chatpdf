@@ -12,14 +12,14 @@
 #### 语音检索结果：
 ![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/9e516b27-9828-4509-8854-7f6a1daea12b)
 
-#### 2）、请给出归档日满了以后应该如何进行处理和检查
+#### 2）、问题：请给出归档日满了以后应该如何进行处理和检查
 ![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/3225ab8a-9120-42e6-990a-62ed66dfce36)
 #### 文档内容
 ![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/98536d87-e8b0-4582-aa77-400a24a77b5e)
 #### 语音检索结果：
 ![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/328f56e7-0661-45f0-bb0f-e692e34ba81d)
 
-#### 3）、数据库用户的密码周期如何改为无限制的？
+#### 3）、问题：数据库用户的密码周期如何改为无限制的？
 #### 语音检索内容：
 ![图片](https://github.com/edwinjiang141/edwin_chatpdf/assets/152252397/c7000234-95fd-4e04-a6f2-43d583f78d30)
 
